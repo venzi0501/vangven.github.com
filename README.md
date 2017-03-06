@@ -1,5 +1,7 @@
 ## 基于 Github issues 的单页面静态博客
 
+code内容来自https://github.com/wuhaoworld/github-issues-blog
+
 玉伯的博客（https://github.com/lifesinger/lifesinger.github.com/issues ）让我第一次知道 github issues 还可以这样用 ，作者发了很多干货技术文章，让我不由得感叹 ，文章不在于形式，也不在于写在哪里，只要是好文，总不会被埋没。
 
 即便如此，很多人仍然希望能有一个独立域名、可以自由修改主题的博客。Wordpress 、Typecho 太重，还要买 VPS、部署服务器环境、安装插件、主题，太折腾人，于是我想，完全可以利用 Github 提供的 API 来实现一个只有一个静态页面的博客，具体思路如下：
